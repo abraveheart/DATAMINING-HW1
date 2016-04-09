@@ -21,7 +21,7 @@ public class Cooperation {
 			data = new Instances(datafile);
 			
 			double deltaValue = 0.00000001;
-			double lowerBoundMinSupportValue = 0.0001;
+			double lowerBoundMinSupportValue = 0.00005;
 			double minMetricValue = 0.2;
 			FPGrowth fpgrowth = new FPGrowth();
 			fpgrowth.setDelta(deltaValue);

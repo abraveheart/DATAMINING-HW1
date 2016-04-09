@@ -17,6 +17,8 @@ Name,Cooperator,Support,Confidence,Weight
 "Milos Radovanovic","Mirjana Ivanovic",7,1.0,1.0154001848022176
 "Antonio Bahamonde","Jorge Díez",6,1.0,1.0132001584019008
 "Behrooz Kamgar-Parsi","Behzad Kamgar-Parsi",5,1.0,1.011000132001584
+"Fillia Makedon","James Ford",4,1.0,1.0088001056012672
+"Ahmad Ghazal","Alain Crolotte",3,1.0,1.0066000792009504
 "Jiliang Tang","Huan Liu",22,0.9565217391304348,1.0049223199374044
 "Jiajun Bu","Chun Chen",21,0.9545454545454546,1.0007460089521074
 "Issei Sato","Hiroshi Nakagawa",19,0.95,0.9918005016060192
@@ -66,6 +68,7 @@ Name,Cooperator,Support,Confidence,Weight
 "Hongyan Liu","Jun He",8,0.8,0.8176002112025345
 "Amr El Abbadi","Divyakant Agrawal",17,0.7727272727272727,0.8101277215326583
 "Guiguang Ding","Jianmin Wang 0001",11,0.7857142857142857,0.8099145761177705
+"Alberto L. Sangiovanni-Vincentelli","Arlindo L. Oliveira",4,0.8,0.8088001056012672
 "Marijn Koolen","Jaap Kamps",14,0.7777777777777778,0.808578147382213
 "Jim Melton","Andrew Eisenberg",16,0.7619047619047619,0.7971051843098307
 "Dino Pedreschi","Fosca Giannotti",21,0.75,0.7962005544066528
@@ -80,6 +83,7 @@ Name,Cooperator,Support,Confidence,Weight
 "Dimitrios Tsoumakos","Ioannis Konstantinou",6,0.75,0.7632001584019008
 "Rakesh Kumar 0001","Harpreet S. Sawhney",16,0.7272727272727273,0.7624731496777961
 "Peng Cui","Shiqiang Yang",11,0.7333333333333333,0.7575336237368181
+"A. Kumaran","Tobias Kellner",3,0.75,0.7566000792009504
 "Michael R. Lyu","Irwin King",27,0.6923076923076923,0.751708405116246
 "Abdur Chowdhury","Ophir Frieder",13,0.7222222222222222,0.7508225654263406
 "Wynne Hsu","Mong-Li Lee",25,0.6944444444444444,0.7494451044523646
@@ -111,6 +115,7 @@ Name,Cooperator,Support,Confidence,Weight
 "Claudio Gentile","Nicolò Cesa-Bianchi",21,0.6363636363636364,0.6825641907702893
 "C. Seshadhri","Ali Pinar",6,0.6666666666666666,0.6798668250685674
 "Jiafeng Guo","Yanyan Lan",13,0.65,0.6786003432041184
+"Achi Brandt","Eitan Sharon",4,0.6666666666666666,0.6754667722679338
 "Harpreet S. Sawhney","Rakesh Kumar 0001",16,0.64,0.6752004224050688
 "Feng Chen","Chang-Tien Lu",11,0.6470588235294118,0.6712591139328966
 "Xiaofei He","Deng Cai",28,0.6086956521739131,0.6702963913827836
@@ -137,6 +142,7 @@ Name,Cooperator,Support,Confidence,Weight
 "Bart Selman","Stefano Ermon",6,0.6,0.6132001584019008
 "Svetha Venkatesh","Dinh Q. Phung",27,0.5510204081632653,0.610421120971819
 "Yu Cheng","Ankit Agrawal",10,0.5882352941176471,0.6102355581208151
+"Adnan Darwiche","Arthur Choi",3,0.6,0.6066000792009504
 "Chang-Tien Lu","Feng Chen",11,0.5789473684210527,0.6031476588245375
 "Guofei Jiang","Haifeng Chen",7,0.5833333333333334,0.598733518135551
 "Mario Marchand","François Laviolette",12,0.5714285714285714,0.597828888232373
@@ -146,6 +152,7 @@ Name,Cooperator,Support,Confidence,Weight
 "Yihong Gong","Shenghuo Zhu",17,0.5483870967741935,0.5857875455795791
 "Bruce A. Draper","J. Ross Beveridge",9,0.5625,0.5823002376028512
 "Xifeng Yan","Jiawei Han",29,0.5178571428571429,0.5816579084663303
+"Adam Silberstein","Brian F. Cooper",4,0.5714285714285714,0.5802286770298386
 "Ankit Agrawal","Yu Cheng",10,0.5555555555555556,0.5775558195587236
 "Ming Yang","Ying Wu",11,0.55,0.5742002904034849
 "Andrew Trotman","Shlomo Geva",12,0.5454545454545454,0.571854862258347
@@ -177,6 +184,8 @@ Name,Cooperator,Support,Confidence,Weight
 "Andreas F. Koschan","David L. Page",5,0.5,0.511000132001584
 "David Wai-Lok Cheung","Ben Kao",13,0.48148148148148145,0.5100818246855999
 "Jun Yan","Shuicheng Yan",17,0.4722222222222222,0.5096226710276078
+"Alexander M. Bronstein","Michael M. Bronstein",4,0.5,0.5088001056012672
+"Adrian Silvescu","Dae-Ki Kang",3,0.5,0.5066000792009504
 "Alexandros Kalousis","Adam Woznica",12,0.48,0.5064003168038016
 "Ophir Frieder","David A. Grossman",11,0.4782608695652174,0.5024611599687022
 "Fei Wang 0001","Changshui Zhang",20,0.45454545454545453,0.4985459825517906
@@ -201,6 +210,7 @@ Name,Cooperator,Support,Confidence,Weight
 "Limsoon Wong","Guimei Liu",10,0.43478260869565216,0.4567828726988202
 "Hanghang Tong","Christos Faloutsos",22,0.4074074074074074,0.45580798821437707
 "Peng Zhang","Li Guo",14,0.42424242424242425,0.45504279384685953
+"Anastasios Kementsietsidis","Kavitha Srinivas",4,0.4444444444444444,0.4532445500457116
 "Alexander C. Berg","Tamara L. Berg",7,0.4375,0.4529001848022176
 "Bhavani M. Thuraisingham","Latifur Khan",15,0.4166666666666667,0.44966706267141876
 "Xiaogang Wang","Xiaoou Tang",18,0.4090909090909091,0.4486913842966116
@@ -216,6 +226,7 @@ Name,Cooperator,Support,Confidence,Weight
 "Guo-Jun Qi","Jinhui Tang",8,0.42105263157894735,0.43865284278148176
 "Hong Cheng","Jiawei Han",15,0.40540540540540543,0.4384058014101575
 "Charu C. Aggarwal","Philip S. Yu",38,0.35185185185185186,0.4354528550638904
+"A. G. Amitha Perera","Glen Brooksby",3,0.42857142857142855,0.43517150777237895
 "Thomas Seidl 0001","Stephan Günnemann",21,0.3888888888888889,0.4350894432955418
 "Ben Kao","David Wai-Lok Cheung",13,0.40625,0.4348503432041185
 "Wei Wang 0010","Jiong Yang",17,0.3953488372093023,0.432749286014688
@@ -234,6 +245,7 @@ Name,Cooperator,Support,Confidence,Weight
 "Kai Yu","Volker Tresp",17,0.37777777777777777,0.41517822658316345
 "Bongki Moon","Sang-Won Lee",6,0.4,0.41320015840190083
 "Glenn Fung","R. Bharat Rao",9,0.391304347826087,0.4111045854289382
+"Andrew K. C. Wong","Yang Wang 0007",4,0.4,0.4088001056012672
 "Volker Tresp","Kai Yu",17,0.3695652173913043,0.40696566619669
 "Xingquan Zhu","Xindong Wu",18,0.3673469387755102,0.4069474139812127
 "Ofer Dekel","Yoram Singer",10,0.38461538461538464,0.40661564861855265
@@ -251,6 +263,7 @@ Name,Cooperator,Support,Confidence,Weight
 "Claudia Perlich","Brian Dalessandro",6,0.375,0.3882001584019008
 "Bao-Gang Hu","Shuang-Hong Yang",7,0.3684210526315789,0.38382123743379654
 "Ada Wai-Chee Fu","Raymond Chi-Wing Wong",15,0.3488372093023256,0.38183760530707767
+"Alex Beutel","Meng Jiang",3,0.375,0.3816000792009504
 "Gui-Rong Xue","Wenyuan Dai",8,0.36363636363636365,0.38123657483889806
 "Tsuhan Chen","Andrew C. Gallagher",14,0.35,0.38080036960443525
 "Alfons Kemper","Thomas Neumann 0001",9,0.36,0.3798002376028512
@@ -258,6 +271,7 @@ Name,Cooperator,Support,Confidence,Weight
 "Daphna Weinshall","Aharon Bar-Hillel",10,0.35714285714285715,0.37914312114602516
 "Aixin Sun","Ee-Peng Lim",11,0.3548387096774194,0.3790390000809042
 "Yong Yu","Gui-Rong Xue",18,0.3333333333333333,0.3729338085390358
+"Aapo Hyvärinen","Patrik O. Hoyer",4,0.36363636363636365,0.37243646923763085
 "Rajeev Rastogi","Kyuseok Shim",12,0.34285714285714286,0.36925745966094453
 "Dominik Janzing","Joris M. Mooij",5,0.35714285714285715,0.36814298914444116
 "Fei Sha","Kristen Grauman",11,0.34375,0.3679502904034848
@@ -284,9 +298,11 @@ Name,Cooperator,Support,Confidence,Weight
 "Chunhua Shen","Qinfeng Shi",10,0.3225806451612903,0.3445809091644583
 "Assaf Schuster","Izchak Sharfman",5,0.3333333333333333,0.3443334653349173
 "Lei Chen 0002","Xiang Lian",16,0.3076923076923077,0.3428927300973766
+"Aarti Singh","Akshay Krishnamurthy",4,0.3333333333333333,0.3421334389346005
 "Ravi Kumar","Andrew Tomkins",14,0.3111111111111111,0.3419114807155464
 "Eyke Hüllermeier","Krzysztof Dembczynski",9,0.32142857142857145,0.34122880903142266
 "Steven C. H. Hoi","Peilin Zhao",17,0.30357142857142855,0.3409718773768142
+"Ah Chung Tsoi","Andrew D. Back",3,0.3333333333333333,0.3399334125342837
 "Alon Y. Halevy","Jayant Madhavan",11,0.3142857142857143,0.3384860046891991
 "Christopher Leckie","Jeffrey Chan",8,0.32,0.3376002112025344
 "Chris H. Q. Ding","Heng Huang",25,0.2808988764044944,0.3358995364124145
@@ -311,6 +327,7 @@ Name,Cooperator,Support,Confidence,Weight
 "Philip M. Long","Rocco A. Servedio",12,0.2926829268292683,0.31908324363306995
 "Kai Yu","Shipeng Yu",13,0.28888888888888886,0.31748923209300733
 "Haixun Wang","Philip S. Yu",19,0.2753623188405797,0.317162820446599
+"Alan J. Demers","Nitin Gupta 0003",4,0.3076923076923077,0.3164924132935749
 "Prateek Jain 0002","Inderjit S. Dhillon",10,0.29411764705882354,0.31611791106199155
 "Wei-Ying Ma","Zheng Chen",16,0.2807017543859649,0.3159021767910338
 "Hal Daumé III","Piyush Rai",8,0.2962962962962963,0.3138965074988307
@@ -324,6 +341,7 @@ Name,Cooperator,Support,Confidence,Weight
 "James Bailey","Jeffrey Chan",10,0.2857142857142857,0.3077145497174537
 "Surajit Chaudhuri","Vivek R. Narasayya",17,0.2698412698412698,0.3072417186466555
 "Gareth J. F. Jones","Johannes Leveling",7,0.2916666666666667,0.3070668514688843
+"Adam Jatowt","Zoltán Gyöngyi",3,0.3,0.3066000792009504
 "Pang-Ning Tan","Vipin Kumar",11,0.28205128205128205,0.30625157245476686
 "Gautam Das","Nan Zhang 0004",12,0.27906976744186046,0.30547008424566213
 "Andrew Blake 0001","Antonio Criminisi",5,0.29411764705882354,0.30511777906040755
@@ -334,6 +352,7 @@ Name,Cooperator,Support,Confidence,Weight
 "Bernt Schiele","Mykhaylo Andriluka",11,0.275,0.29920029040348484
 "Gordon V. Cormack","Thomas R. Lynam",6,0.2857142857142857,0.2989144441161865
 "Alexander Rakhlin","Jacob Abernethy",7,0.28,0.29540018480221764
+"Aaron C. Courville","Ian J. Goodfellow",4,0.2857142857142857,0.2945143913155529
 "Nikos Mamoulis","Man Lung Yiu",13,0.2653061224489796,0.2939064656530981
 "Ambuj K. Singh","Petko Bogdanov",8,0.27586206896551724,0.29346228016805165
 "Xuemin Lin","Ying Zhang",12,0.26666666666666666,0.29306698347046833
@@ -353,11 +372,13 @@ Name,Cooperator,Support,Confidence,Weight
 "Aristides Gionis","Heikki Mannila",16,0.24615384615384617,0.28135426855891504
 "Steven C. H. Hoi","Rong Jin",14,0.25,0.2808003696044353
 "Tie-Yan Liu","Bin Gao",11,0.2558139534883721,0.2800142438918569
+"Ad Feelders","Wouter Duivesteijn",3,0.2727272727272727,0.2793273519282231
 "Kotagiri Ramamohanarao","Christopher Leckie",15,0.2459016393442623,0.27890203534901437
 "Richard S. Sutton","Doina Precup",10,0.2564102564102564,0.2784105204134244
 "James T. Kwok","Ivor W. Tsang",9,0.2571428571428571,0.27694309474570833
 "Lawrence Carin","David B. Dunson",14,0.24561403508771928,0.27641440469215456
 "Alok N. Choudhary","Yusheng Xie",8,0.25806451612903225,0.27566472733156666
+"Adam Kowalczyk","Bhavani Raskutti",4,0.26666666666666666,0.27546677226793387
 "Brian D. Davison 0001","Dawei Yin",7,0.25925925925925924,0.27465944406147685
 "Anastasia Ailamaki","Ioannis Alagiannis",5,0.2631578947368421,0.2741580267384261
 "Aoying Zhou","Weining Qian",6,0.2608695652173913,0.2740697236192921
@@ -380,10 +401,12 @@ Name,Cooperator,Support,Confidence,Weight
 "Arthur Zimek","Elke Achtert",5,0.25,0.261000132001584
 "Ian Davidson","Wei Fan",10,0.23809523809523808,0.2600955020984061
 "Claudia Plant","Xiao He",8,0.24242424242424243,0.26002445362677684
+"Abdullah Mueen","Jesin Zakaria",4,0.25,0.2588001056012672
 "Jimeng Sun","Christos Faloutsos",11,0.23404255319148937,0.2582428435949742
 "Jeff A. Bilmes","Rishabh K. Iyer",7,0.2413793103448276,0.25677949514704523
 "Joshua B. Tenenbaum","Thomas L. Griffiths",9,0.23684210526315788,0.2566423428660091
 "Rakesh Agrawal","Ramakrishnan Srikant",14,0.22580645161290322,0.25660682121733847
+"Adam Woznica","Jun Wang 0017",3,0.25,0.2566000792009504
 "Chengqi Zhang","Longbing Cao",10,0.23255813953488372,0.25455840353805176
 "Xiaoou Tang","Xiaogang Wang",18,0.21428571428571427,0.2538861894914167
 "Aijun An","Mehdi Kargar",6,0.24,0.2532001584019008
@@ -400,6 +423,7 @@ Name,Cooperator,Support,Confidence,Weight
 "Dan Suciu","Magdalena Balazinska",9,0.225,0.24480023760285125
 "Kai Yu","Yihong Gong",10,0.2222222222222222,0.24422248622539025
 "Mark Sanderson","Paul D. Clough",11,0.22,0.24420029040348484
+"Asuman Dogac","Cem Evrendilek",4,0.23529411764705882,0.24409422324832603
 "Graham Cormode","S. Muthukrishnan",6,0.23076923076923078,0.24396938917113162
 "Edwin R. Hancock","Richard C. Wilson",7,0.22580645161290322,0.24120663641512086
 "Xifeng Yan","Philip S. Yu",12,0.21428571428571427,0.24068603108951592
@@ -411,6 +435,7 @@ Name,Cooperator,Support,Confidence,Weight
 "Fei-Fei Li","Li-Jia Li",9,0.21951219512195122,0.23931243272480246
 "Ke Wang","Ada Wai-Chee Fu",15,0.2054794520547945,0.23847984805954656
 "Andrew Trotman","Véronique Moriceau",5,0.22727272727272727,0.23827285927431127
+"Aditya G. Parameswaran","Manas Joglekar",3,0.23076923076923078,0.23736930997018119
 "Lawrence Carin","Xuejun Liao",12,0.21052631578947367,0.23692663259327532
 "Kristen Grauman","Fei Sha",11,0.21153846153846154,0.23573875194194638
 "Brian D. Davison 0001","Liangjie Hong",6,0.2222222222222222,0.23542238062412305
@@ -418,6 +443,7 @@ Name,Cooperator,Support,Confidence,Weight
 "Ben Kao","Chun Kit Chui",7,0.21875,0.23415018480221764
 "Lawrence K. Saul","Fei Sha",8,0.21621621621621623,0.23381642741875067
 "Ee-Peng Lim","Aixin Sun",11,0.20754716981132076,0.2317474602148056
+"Abdur Chowdhury","Aleksander Kolcz",4,0.2222222222222222,0.23102232782348942
 "Horst Bischof","Peter M. Roth",12,0.2033898305084746,0.22979014731227623
 "Craig Macdonald","Nicola Tonellotto",9,0.20930232558139536,0.2291025631842466
 "Alan F. Smeaton","Cathal Gurrin",5,0.21739130434782608,0.2283914363494101
@@ -429,5 +455,7 @@ Name,Cooperator,Support,Confidence,Weight
 "Jean Ponce","Francis R. Bach",9,0.20454545454545456,0.2243456921483058
 "Le Song","Arthur Gretton",8,0.20512820512820512,0.22272841633073956
 "Alexander G. Gray","Dongryeol Lee",7,0.20588235294117646,0.2212825377433941
+"Aaron C. Courville","Mehdi Mirza",3,0.21428571428571427,0.22088579348666468
 "Arno Siebes","Matthijs van Leeuwen",6,0.20689655172413793,0.22009671012603876
 "Bin Cui","Yingxia Shao",5,0.20833333333333334,0.21933346533491735
+"Adrien Bartoli","Daniel Pizarro",4,0.21052631578947367,0.21932642139074088
