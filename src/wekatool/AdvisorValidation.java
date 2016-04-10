@@ -45,7 +45,6 @@ public class AdvisorValidation {
 		int cl = corParts.length;
 		int pl = parts.length;
 		if (parts[pl - 1].matches("[0-9]+")) {
-			System.out.println("digists: " + parts[pl - 1]);
 			pl--;
 		}
 		for(int i = 0, j = 0; i < cl && j < pl;i++, j++) {
