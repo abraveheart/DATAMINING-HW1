@@ -3,14 +3,15 @@ package wekatool;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
-import java.util.Map;
-import java.util.TreeMap;
 
 import weka.associations.Apriori;
 import weka.associations.FPGrowth;
 import weka.associations.FPGrowth.AssociationRule;
 import weka.core.Instances;
+import data.Pair;
 import data.Utils;
 
 /*
@@ -36,12 +37,13 @@ public class Cooperation {
 			{
 				fpgrowth.buildAssociations(data);
 				List<AssociationRule> assocRules = fpgrowth.getAssociationRules();
-				Map<Double, AssociationRule> rules = new TreeMap<Double, AssociationRule>();
+				List<Pair<Double, AssociationRule>> rules = new ArrayList<Pair<Double, AssociationRule>>();
 				for(AssociationRule assocRule : assocRules) {
 					double w = assocRule.getMetricValue() + 
 							((assocRule.getTotalSupport() * Config.ADJUST) / assocRule.getTotalTransactions());
-					rules.put(-w, assocRule);
+					rules.add(new Pair<Double, AssociationRule>(-w, assocRule));
 				}
+				Collections.sort(rules);
 				writeRules(rules);
 			}
 			catch (Exception e) {
@@ -59,17 +61,17 @@ public class Cooperation {
 		}
 	}
 	
-	private void writeRules(Map<Double, AssociationRule> rules) {
+	private void writeRules(List<Pair<Double, AssociationRule>> rules) {
 		BufferedWriter writer = Utils.getWriter(Config.COOP_OUTPUT_FILE);
 		try {
 			writer.write("Name,Cooperator,Support,Confidence,Weight\n");
-			for(Map.Entry<Double, AssociationRule> entry : rules.entrySet()) {
-				AssociationRule rule = entry.getValue();
+			for(Pair<Double, AssociationRule> entry : rules) {
+				AssociationRule rule = entry.value;
 				writer.write(wrap(rule.getPremise().toString()) + ",");
 				writer.write(wrap(rule.getConsequence().toString()) + ",");
 				writer.write(rule.getTotalSupport() + ",");
 				writer.write(rule.getMetricValue() + ",");
-				writer.write(-entry.getKey() + "\n");
+				writer.write(-entry.key + "\n");
 			}
 		} catch (IOException e) {
 			e.printStackTrace();

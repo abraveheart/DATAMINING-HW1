@@ -22,8 +22,11 @@ public class Advisor {
 	
 	private Map<String, Person> info = new HashMap<String, Person>();
 	
+	private AdvisorValidation validation;
+	
 	public Advisor() {
 		readInfo();
+		validation = new AdvisorValidation();
 	}
 	
 	public void fpGrowth() {
@@ -61,6 +64,7 @@ public class Advisor {
 					}
 					if (student.getYear() > advisor.getYear() && student.getPapers() < advisor.getPapers()) {
 						writer.write("\"" + studentName + "\",\"" + advisorName + "\"\n");
+						validation.validate(studentName, advisorName);
 					}
 				}
 			}
@@ -78,6 +82,8 @@ public class Advisor {
 				e.printStackTrace();
 			}
 		}
+		System.out.println("precision: " + validation.getPrecision());
+		System.out.println("recall " + validation.getRecall());
 	}
 	
 	private void readInfo() {
@@ -109,5 +115,9 @@ public class Advisor {
 	public static void main(String args[]) {
 		Advisor adv = new Advisor();
 		adv.fpGrowth();
+		String a = "00001";
+		if (a.matches("[0-9]+")) {
+			System.out.println("match");
+		}
 	}
 }

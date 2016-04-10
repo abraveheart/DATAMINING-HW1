@@ -1,0 +1,539 @@
+Ajay N. Jain	Alexander  Waibel
+David A. Cohen	Peter Jephson Cameron
+Jerod J. Weinman	Allen  Ralph Hanson
+William D. Ross	Gail Alexandra Carpenter
+Tucker R. Balch	Ronald Craig Arkin
+Jeffrey Mark Siskind	Robert Cregar Berwick
+Mark A. Linton	Michael Leonard Powell
+Mary F. Fernandez	David Roy Hanson
+Matthew E. Antone	Seth Jared Teller
+Peter L. Hammer	Grigore C. Moisil
+Benn R. Konsynski	Jay Frank Nunamaker, Jr.
+Iven M. Y. Mareels	Robert R. Bitmead
+David J. Heeger	Ruzena Kucera Bajcsy
+Hamid K. Aghajan	Thomas  Kailath
+Hanna M. Wallach	David John Cameron MacKay
+Kim L. Boyer	Avi (Avinash) Kak
+Jade P. Vinson	Peter Clive Sarnak
+Tuan A. Tran	Christopher N. Pope
+Shantanu H. Joshi	Anuj  Srivastava
+Peter J. F. Lucas	Jan  Treur
+Jonathan Z. Simon	James Burkett Hartle
+Jonathan A. Kelner	Daniel Alan Spielman
+Thomas M. Breuel	Tomaso A. Poggio
+David F. Nettleton	Vicenc  Torra
+Carl Edward Rasmussen	Geoffrey Everest Hinton
+Alan M. Frieze	Keith  Wolfenden
+Alexandre M. Bayen	Claire Jennifer Tomlin
+Leslie S. Smith	Tom Stephen Pitcher
+Paul W. Goldberg	Mark Richard Jerrum
+Andrea Pohoreckyj Danyluk	Kathleen Rose McKeown
+Rodrigo L. Carceroni	Kiriakos N. Kutulakos
+Feodor F. Dragan	Chiril F. Prisacaru
+Santosh Kumar Divvala	Martial  Hebert
+Kathryn B. Laskey	Joseph Born Kadane
+Alan David Fekete	Nancy Ann Lynch
+Lawrence D. Bergman	Frederick Phillips Brooks, Jr.
+Srikanta J. Bedathur	Jayant Ramaswamy Haritsa
+Bradley W. Dickinson	Thomas  Kailath
+Dana S. Nau	Alan Wales Biermann
+Prasanna Kumar Desikan	Jaideep  Srivastava
+Chaouki T. Abdallah	Frank L. Lewis
+Wanpracha Art Chaovalitwongse	Panayote Miltiades Pardalos
+Rebecca N. Wright	Michael John Fischer
+Peter G. Selfridge	Jerome Arthur Feldman
+Upen S. Chakravarthy	Jack  Minker
+Douglas M. Bates	Donald G. Watts
+Mohamed S. Kamel	Wayne Howard Enright
+Matthew M. Tibbits	Murali  Haran
+David B. Rosen	Gail Alexandra Carpenter
+Dimitris K. Tasoulis	Michael N. Vrahatis
+Minh N. Do	Martin  Vetterli
+Ashfaq A. Khokhar	Viktor K. Prasanna Kumar
+Cyril S. Ku	Lawrence Joseph Henschen
+David A. Smith	Henry A. Kierstead
+Michael F. Cohen	Elaine  Cohen
+Henk Ernst Blok	Peter Maria Geradus Apers
+Krzysztof J. Cios	Jacek  Moscinski
+Venu Madhav Govindu	Ramalingam  Chellappa
+A. G. Amitha Perera	Charles Vernon Stewart
+James L. Hafner	Bruce Carl Berndt
+T. M. Murali	Jeffrey Scott Vitter
+Ricardo A. Baeza-Yates	Gaston H. Gonnet
+Susan B. Davidson	Hector  Garcia-Molina
+Henrik Iskov Christensen	Erik  Granum
+Simon A. J. Winder	Martin  Oliver
+Alexander C. Berg	Jitendra  Malik
+Nevin Lianwen Zhang	David Lynton Poole
+Huong Quynh Dinh	Greg  Turk
+Chee-Hung Henry Chu	Edward John Delp, III
+Chinya V. Ravishankar	Raphael A. Finkel
+Michael M. Skolnick	John Henry Holland
+Remco R. Bouckaert	Jan  van Leeuwen
+Kyong Jin Shim	Jaideep  Srivastava
+Brendan J. Frey	Geoffrey Everest Hinton
+Gordon C. Everest	James  Emery
+Aaron F. Bobick	Whitman Albin Richards
+Chad R. Meiners	Eric Kuo-Tai Torng
+John W. Sheppard	Steven Lloyd Salzberg
+Carla Schlatter Ellis	Jean-Loup  Baer
+Nathaniel D. Daw	David Stuart Touretzky
+Francis Chi-Moon Lau	Eric G. Manning
+S. C. Chang	Shiing-Shen  Chern
+Leon A. Shklar	L. Thorne  McCarty
+Taher H. Haveliwala	Jeffrey David Ullman
+Michael M. Bronstein	Ron  Kimmel
+Wesley T. Chuang	D. Stott (Douglass) Parker, Jr.
+Anthony B. O'Hare	Larry  Travis
+Daniel J. Rosenkrantz	Stephen Herbert Unger
+Adam D. Smith	Madhu  Sudan
+Daniel P. Huttenlocher	Shimon  Ullman
+William W. Streilein	Gail Alexandra Carpenter
+Luis Leopoldo Perez	Christopher Matthew Jermaine
+Joachim M. Buhmann	Klaus  Schulten
+Victor M. Markowitz	Johann Andreas Makowsky
+Kenneth R. Koedinger	John Robert Anderson
+Phokion G. Kolaitis	Yiannis (John) Nicolas Moschovakis
+Eric O. Postma	H. Jaap van den Herik
+Ruben H. Zamar	R. Douglas  Martin
+Sylvia L. Osborn	Frank William Tompa
+Richard J. Doyle	Patrick Henry Winston
+Norman E. Fenton	Peter  Vámos
+John P. Fishburn	Raphael A. Finkel
+Vitor Rocha de Carvalho	William Weston Cohen
+Chunsheng Victor Fang	Anca Luminita Ralescu
+James W. Welch	J. Wesley Graham
+Ramesh C. Agarwal	Charles Sidney Burrus
+Dharmendra S. Modha	Elias  Masry
+David J. Taylor	David E. Morgan
+Kevin Chen-Chuan Chang	Hector  Garcia-Molina
+Henk J. Olivié	Jan J. Paredaens
+Xin Luna Dong	Alon Yitzchack Halevy (Levy)
+Brett W. Bader	Robert B. Schnabel
+J. Sunil Rao	Robert John Tibshirani
+Sanjiv K. Bhatia	Jitender Singh Deogun
+Dick H. J. Epema	Jakob Pieter Murre
+Daniela Pucci de Farias	Benjamin  Van Roy
+Christos H. Papadimitriou	Kenneth  Steiglitz
+Nigel H. Goddard	Jerome Arthur Feldman
+Gaston H. Gonnet	J. Alan (John) George
+Michael D. Heath	Kevin Wilson Bowyer
+Guy N. Rothblum	Shafrira  Goldwasser
+Lawrence V. Saxton	Patrick Carl Fischer
+Ken Q. Pu	Alberto Oscar Mendelzon
+Aaron M. Tenenbaum	Jacob Theodore (Jack) Schwartz
+Philip Heng Wai Leong	Marwan Anwar Jabri
+Akshaya Kumar Mishra	Govind Prakash Kapoor
+Marios D. Dikaiakos	Kenneth  Steiglitz
+Wai Han Ho	Dominic Robert Verity
+Timothy X. Brown	Edward C. Posner
+Cheng Che Chen	John Leroy Hennessy
+Narain H. Gehani	David  Gries
+Ashish Kumar Gupta	Dan  Suciu
+Daniel Alexander Ford	Stavros C. Christodoulakis
+Nathan D. Cahill	J. Alison Noble
+J. Eliot B. Moss	Barbara Jane Huberman Liskov
+David B. Cooper	Ralph J. Schwarz
+A. N. Rajagopalan	Subhasis  Chaudhuri
+Sargur N. Srihari	Lee James White
+Stephen C. North	Richard Jay Lipton
+Peter-Paul van Maanen	Jan  Treur
+Rodney A. Kennedy	Brian David Outram Anderson
+Marc Lanctot	Michael  Bowling
+Assaf J. Zeevi	Thomas Merrill Cover
+Susan Darling Urban	Lois Marie Lundberg Delcambre
+Brian J. Fischer	Charles  Anderson
+Christian A. Lang	Ambuj Kumar Singh
+Samuel S. Gross	Michael Anthony Filaseta
+Michael J. O'Hara	Dianne Prost O'Leary
+Marcia A. Derr	Jeffrey David Ullman
+Klaus R. Dittrich	Peter C. Lockemann
+Paul R. Cooper	Jerome Arthur Feldman
+Jonathan R. M. Hosking	T. M.F. Smith
+Benjamin J. Anderson	Sean Michael Sather-Wagstaff
+Jonathan E. Cook	Alexander Lee Wolf
+Kuldip K. Paliwal	Marcel  Demeur
+Hsing-Kuo Kenneth Pao	Davi  Geiger
+Jonathan E. Taylor	Keith J. Worsley
+Steven J. Rennie	Parham  Aarabi
+Yee Wei Law	Pieter Hendrik Hartel
+Brian M. Oki	Barbara Jane Huberman Liskov
+Peter A. Tucker	David E. Maier
+Darrin P. Lewis	Tony S. Jebara
+Kirk D. Borne	James Edward Gunn
+Sarang C. Joshi	Michael I. Miller
+Vandana Pursnani Janeja	Vijayalakshmi  Atluri
+Jennifer Wortman Vaughan	Michael Justin Kearns
+Mark N. Wegman	Susan Lois Graham
+David L. Jensen	Robert Gary Bland
+James A. Hendler	Eugene  Charniak
+Sergey I. Nikolenko	Edward Alekseevich Hirsch
+Ethan V. Munson	Michael Alexander Harrison
+Yan Zheng Wei	Luc  Moreau
+Daniel J. Abadi	Samuel Ross Madden
+Erik G. Learned-Miller	Paul Alfred Viola
+Harold Vincent Poor	John Bowman Thomas
+Sung Hee Park	Peter  Pflug
+Faisal Z. Qureshi	Demetri  Terzopoulos
+Daniel D. Corkill	Victor Richard Lesser
+David M. Blei	Michael Irwin Jordan
+David B. Johnson	Steven L. Tanimoto
+Geoffrey J. Gordon	Tom Michael Mitchell
+Mohammad H. Mahoor	Mohamed  Abdel-Mottaleb
+William Stafford Noble	Charles  Elkan
+Daniel A. Keim	Hans-Peter  Kriegel
+Lawrence B. Holder	Larry Arthur Rendell
+Xiang Sean Zhou	Thomas Shi-Tao Huang
+Suresha	Jayant Ramaswamy Haritsa
+Oscar H. Ibarra	Michael Alexander Harrison
+David A. Ferrucci	Edwin H. Rogers
+Philip H. S. Torr	David William Murray
+Robert J. Hilderman	Howard John Hamilton
+Thomas R. Amoth	Paul  Cull
+Agma Juci Machado Traina	Jan Frans Willem Slaets
+Grani Adiwena Hanasusanto	Daniel  Kuhn
+Robin Y. Flatland	Charles Vernon Stewart
+Ricardo da Silva Torres	Claudia M. Bauzer Medeiros
+Shuo-Yen Robert Li	Elwyn Ralph Berlekamp
+Timothy N. Jones	Dimitris N. Metaxas
+Gerd G. Hillebrand	Paris Christos Kanellakis
+Kien A. Hua	Jacob A. Abraham
+Russell A. Manning	Charles Robert Dyer
+David Wai-Lok Cheung	Tsunehiko (Tiko)  Kameda
+Joseph M. Hellerstein	Jeffrey Frank Naughton
+Jae Won Lee	David Leon DeMets
+Panagiotis G. Ipeirotis	Luis  Gravano
+Adams Wai-Kin Kong	Mohamed S. Kamel
+B. R. Badrinath	Krithi  Ramamritham
+April Rasala Lehman	Madhu  Sudan
+Richard A. Derrig	Yuji  Ito
+Brian D. Ziebart	Anind Kumar Dey
+Cynthia A. Phillips	Charles Eric Leiserson
+Mukkai S. Krishnamoorthy	Narsingh  Deo
+Anthony J. Bonner	Tomasz  Imielinski
+Thomas H. Martin	Hugh Lowell Montgomery
+Gabriel Y. Weintraub	Benjamin  Van Roy
+Charles S. Kenney	Stuart Sheldon Antman
+Suleyman Serdar Kozat	Andrew Carl Singer
+Kristian J. Hammond	Roger Carl Schank
+Joan Antoni Sellarès	Ferran A. Hurtado Díaz
+Susan Elliott Sim	Richard Craig Holt
+Andrea Lockerd Thomaz	Rosalind Wright Picard
+Dinesh K. Pai	M. C. Leu
+Afonso S. Bandeira	Amit  Singer
+Egon L. van den Broek	Anton  Nijholt
+Ronald J. Adrian	Alan A. Townsend
+Donald E. Brown	Robert Longworth Smith
+Paul B. Kantor	Sam Bard Treiman
+Yatin P. Saraiya	Jeffrey David Ullman
+Achint Oommen Thomas	Venugopal Venu Govindaraju
+Vincent T. Y. Ng	Tsunehiko (Tiko)  Kameda
+Jaswinder Pal Singh	John Leroy Hennessy
+Robert A. Hummel	David Samuel Kinderlehrer
+Jan A. van den Brakel	Peter  Kooiman
+Pedro M. Q. Aguiar	José Manuel Fonseca de Moura
+Dominik D. Freydenberger	Nicole  Schweikardt
+K. K. Ramakrishnan	Ashok Kumar Agrawala
+Kevin W. Hamlen	Gregory  Morrisett
+Ewing L. Lusk	Jerome  Dancis
+Mehmet S. Aktas	Geoffrey C. Fox
+M. Manzur Murshed	Richard Peirce Brent
+Cuneyt Gurcan Akcora	Elena  Ferrari
+Kathryn S. McKinley	Ken W. Kennedy
+Boriana L. Milenova	Gail Alexandra Carpenter
+Thomas H. Chung	Thomas Merrill Cover
+Ueli M. Maurer	James Lee Massey
+Oliver B. Downs	John Joseph Hopfield
+Christopher J. Hughes	Sarita Vikram Adve
+Christopher C. Holmes	Adrian Frederick Melhuish Smith
+P. Thomas Fletcher	Stephen Murray Pizer
+Jay A. Farrell	Anthony N. Michel
+Sang Kyun Cha	Gio(vanni) Corrado Melchiore Wiederhold
+Robert D. Kleinberg	F. Thomson (Frank) Leighton
+Luis E. Ortiz	Leslie Pack Kaelbling
+Lucian Vlad Lita	Jaime Guillermo Carbonell
+Christoph S. Garbe	Bernd  Jähne
+Christopher I. Connolly	Roderic  Grupen
+Pedro M. Domingos	Dennis Francis Kibler
+Adrian M. Peter	Anand  Rangarajan
+David L. Smith	Simon Asher Levin
+Muhammad Aurangzeb Ahmad	Jaideep  Srivastava
+Peter J. Giblin	John  Reeve
+Nicholas D. Larusso	Ambuj Kumar Singh
+Johann Christoph Freytag	Nathan  Goodman
+Susanne E. Hambrusch	Janos  Simon
+Ana L. N. Fred	José M. N. Leitão
+Alan S. Wagner	Derek Gordon Corneil
+David C. Roberts	Nesbitt W. Hagood
+Jill P. Mesirov	Richard Sheldon Palais
+Dov M. Gabbay	Azriel  Levy
+David M. Pennock	Michael Paul Wellman
+Mariano P. Consens	Alberto Oscar Mendelzon
+Leslie Pack Kaelbling	Nils John Nilsson
+Dave D. Straube	M. Tamer (Mehmet) Ozsu
+Steven W. Norton	Haym  Hirsh
+Nasir D. Memon	Spyros S. Magliveras
+Elias N. Houstis	John Rischard Rice
+Windsor W. Hsu	Alan Jay Smith
+Rajesh P. N. Rao	Dana Harry Ballard
+John A. Miller	Robert Wayne Newcomb
+David A. Forsyth	J. Michael Brady
+Michael F. Worboys	Donald  Livingstone
+George H. L. Fletcher	Catharine Merle Wyss
+Robert C. Miller	Brad Allan Myers
+Shyamanta M. Hazarika	Anthony G. Cohn
+David J. Crisp	William  Moran
+Marten H. Wegkamp	Willem Rutger van Zwet
+Eduardo Freire Nakamura	Antonio Alfredo Ferreira Loureiro
+Omer F. Rana	Antonia Jane Jones
+J. Spruce Riordon	David Quinn Mayne
+Trevor J. M. Bench-Capon	Michael  Dummett
+Antonio Alfredo Ferreira Loureiro	Samuel Tin-Hung Chanson
+Chang Dong Yoo	Jae Soo Lim
+Inderpal Singh Mumick	Jeffrey David Ullman
+Margaret M. Burnett	Allen Leon Ambler
+Anthony M. L. Liekens	Peter (Petrus) Antonius Jozef Hilbers
+Meng Chang Chen	Lawrence Paul McNamee
+Kiriakos N. Kutulakos	Charles Robert Dyer
+Robert A. Stine	Peter  Bloomfield
+Alberto Maria Segre	Gerald Francis DeJong, II
+David H. D. Warren	Robert Anthony Kowalski
+Dimitris N. Metaxas	Demetri  Terzopoulos
+Paul Andrew Watters	Michael Sterling James Johnson
+Alexander G. Gray	Andrew William Moore
+Pragnesh Jay Modi	Milind  Tambe
+James M. Crawford	Benjamin Jack Kuipers
+Ramesh K. Sitaraman	Robert Endre Tarjan
+Dong Hoon Lee	Karl Heinrich Hofmann
+Christopher O. Jaynes	Edward Martin Riseman
+Norbert G. Lenz	Wolfgang Johann Bühler
+Henrik Gordon Petersen	John  Perram
+Tamara L. Berg	David A. Forsyth
+Md. Mostofa Ali Patwary	Fredrik  Manne
+Bhaskar D. Rao	Sun-Yuan  Kung
+John K. Johnstone	John Edward H. Hopcroft
+My T. Thai	Ding-Zhu  Du
+Michael J. Bradley	Alan  Howard
+Jack S. Eddy Tan	Jaideep  Srivastava
+Nam H. Nguyen	Trac Duy Tran
+Joseph W. Goodman	Raymond C. Cumming
+Jonathan P. How	Steven R. Hall
+Hans Ulrich Simon	Günter  Hotz
+Maria L. Gini	Giovanni  Degli Antoni
+James C. Gee	Ruzena Kucera Bajcsy
+Ramesh A. Gopinath	Charles Sidney Burrus
+Sudhir P. Mudur	Rangaswamy  Narasimhan
+Philip J. Smith	Joeseph Henry Sedransk
+Butler W. Lampson	Harry Douglas Huskey
+Binay K. Bhattacharya	Godfried Theodore Patrick Toussaint
+Khaled M. Elbassioni	Leonid Genrikhovich Khachiyan
+Cliff B. Jones	C. A. R. Hoare
+Myung Jin Choi	Alan Steven Willsky
+Robert C. Williamson	Thomas Luther Downs, Jr.
+Ramanathan V. Guha	John  McCarthy
+Alexander L. Strehl	Michael Lederman Littman
+Jerry B. Weinberg	Gautam  Biswas
+Christoph H. Lampert	Ingo  Lieb
+Allan D. Jepson	Herbert Bishop Keller
+Michael J. Freedman	David Folkman Mazières
+Lisa Cingiser DiPippo	Victor  Fay-Wolfe
+Jeff M. Phillips	Pankaj Kumar Agarwal
+Willard L. Miranker	Joseph Bishop Keller
+Aart J. C. Bik	Harry A. G. Wijshoff
+Gerhard J. Woeginger	Franz  Rendl
+Richard G. Baraniuk	Douglas Llewellyn Jones
+Susan A. Murphy	Pranab Kumar Sen
+Michael R. M. Jenkin	John Konstantine Tsotsos
+Iftikhar Ahamath Burhanuddin	Ming-Deh A. Huang
+C. L. Lin	Ramalingam  Chellappa
+G. Michael Schneider	Edouard J. Desautels
+Christopher M. Bishop	David J. Wallace
+Philip L. Lehman	Hsiang-Tsung  Kung
+Thomas J. Olson	Jerome Arthur Feldman
+Daniel S. Weld	Tomás  Lozano-Pérez
+Zohar Shay Karnin	Amir  Shpilka
+Kenneth Ward Church	Jonathan  Allen
+Joel A. Tropp	Inderjit Singh Dhillon
+P. J. Narayanan	Larry Steven Davis
+Michel A. Melkanoff	Robert Jay Finkelstein
+Jeffrey M. Beck	Vladimir A. Volpert
+Francisco S. Melo	M. Isabel L. F. Ribeiro
+Mark J. Schervish	Robert A. Wijsman
+David A. Hull	Jerome Harold Friedman
+B. S. Manjunath	Ramalingam  Chellappa
+Marija D. Ilic	John  Zaborszky
+Michael C. Fairhurst	Igor  Aleksander
+Ciamac Cyrus Moallemi	Benjamin  Van Roy
+Yasin N. Silva	Walid G. Aref
+Kristen Maria Summers	John Edward H. Hopcroft
+Nir A. Sochen	Jean-Bernard  Zuber
+John J. Leonard	Hugh  Durrant-Whyte
+Brian R. Gaines	Richard L. Gregory
+Shun Yan Cheung	Mostafa Hamed Ammar
+Ryan Prescott Adams	David John Cameron MacKay
+Satyan R. Coorg	Seth Jared Teller
+Jeffrey Scott Vitter	Donald Ervin Knuth
+Mausam	Daniel S. Weld
+David M. Nicol	Paul Francis Reynolds, Jr.
+Catherine L. Smith	Paul B. Kantor
+Eun Bae Kong	Thomas Glen Dietterich
+Michael W. Berry	Ahmed Hamdy Mohamed Sameh
+Paulo Cezar Pinto Carvalho	Leslie Earl Trotter, Jr.
+Gian Pietro Picco	Carlo  Ghezzi
+Abhradeep Guha Thakurta	Adam D. Smith
+Jason J. Corso	Gregory Donald Hager
+Annita N. Wilschut	Peter Maria Geradus Apers
+Desney S. Tan	Randy F. Pausch
+Ha Quang Minh	Stephen  Smale
+Rob J. Hyndman	Peter J. Brockwell
+Nazim H. Madhavji	Ian R. Wilson
+Pinaki S. Mitra	Vanathi  Gopalakrishnan
+Mark A. Davenport	Richard G. Baraniuk
+Jonathan D. Cohen	Dinesh  Manocha
+Carl Henrik Ek	Philip H. S. Torr
+Ellen Lowenfeld Walker	Takeo  Kanade
+Ramgopal R. Mettu	C. Gregory (Charles) Plaxton
+Janice I. Glasgow	Edward A. Ashcroft
+James Ze Wang	Gio(vanni) Corrado Melchiore Wiederhold
+Shannon M. Hughes	Ingrid C. Daubechies
+Max J. Egenhofer	Andrew U. Frank
+Marco F. Duarte	Richard G. Baraniuk
+Andrew T. Wilson	Dinesh  Manocha
+James F. O'Brien	Jessica Kate Hodgins
+Jack H. Lutz	Roger Allan Carlson
+Ken C. L. Wong	Pengcheng  Shi
+Geof H. Givens	Adrian E. Raftery
+Nitesh V. Chawla	Lawrence O'Higgins Hall
+Kaustuv	Walter  Murray
+Carlos Alberto Heuser	Kurt  Lautenbach
+Shyhtsun Felix Wu	Gail  Kaiser
+David Maxwell Chickering	Judea  Pearl
+Abraham J. Wyner	Anindita  Adhikari
+José M. N. Leitão	José Manuel Fonseca de Moura
+Rong N. Chang	Chinya V. Ravishankar
+David Elliot Shaw	Gio(vanni) Corrado Melchiore Wiederhold
+Steven L. Tanimoto	Theodosios  Pavlidis
+Scott E. Hudson	Roger  King
+R. Andrew Hicks	Wolfgang  Ziller
+Neil D. Lawrence	Christopher M. Bishop
+Misha Elena Kilmer	Dianne Prost O'Leary
+Sergio E. R. de Carvalho	Karel  Culik, II
+Al Mamunur Rashid	John Thomas Riedl
+Akmal A. Younis	Mansur R. Kabuka
+David P. Woodruff	Piotr  Indyk
+Todd Jeffrey Green	Zachary George Ives
+Florian T. Pokorny	Michael A. Singer
+Neil D. B. Bruce	John Konstantine Tsotsos
+Ivan V. Bajic	John William Woods
+Huseyin Cenk Ozmutlu	Russell Richard Barton
+Kumar V. Vadaparty	Tomasz  Imielinski
+Aggelos K. Katsaggelos	Ronald W. Schafer
+James C. French	John Lucas Pfaltz
+Mugizi Robert Rwebangira	Avrim Louis Blum
+Narendra Kumar Gupta	Arthur E. Bryson, Jr.
+Annie W. Shum	Jeffrey Peter Buzen
+Jessica D. Bayliss	Dana Harry Ballard
+Mehmet Ercan Nergiz	Christopher Wade Clifton
+Daniel S. Hirschberg	Jeffrey David Ullman
+Partha Pratim Ghosh	Sudip Kumar Acharyya
+Stephen J. Maybank	Georghios (George) Loizou
+Gabriel J. Brostow	Irfan Aziz Essa
+Geoffrey G. Towell	Jude William Shavlik
+Solomon Eyal Shimony	Eugene  Charniak
+David Scott Warren	Joyce Barbara Friedman
+Peter R. Wurman	Michael Paul Wellman
+Vivek R. Narasayya	Henry (Hank) M. Levy
+Keith J. Worsley	Alastair John Scott
+Mark A. Fanty	Jerome Arthur Feldman
+Dan A. Simovici	Sergiu  Rudeanu
+Henry MacKay Walker	Franklin Paul Peterson
+Carel A. van den Berg	Peter Maria Geradus Apers
+Richard G. Larson	Israel (Yitzchak) Nathan Herstein
+Mrinal Kanti Das	S. M. Bhatwadekar
+Alexandre B. Tsybakov	Boris Teodorovich Polyak
+Lydia E. Kavraki	Jean-Claude  Latombe
+Joel L. Wolf	Paul Frank Baum
+Clare Bates Congdon	John Henry Holland
+Cees G. M. Snoek	Arnold Wilhelm Maria Smeulders
+James V. Miller	Charles Vernon Stewart
+O. Patrick Kreidl	Alan Steven Willsky
+Frank Chongwoo Park	Roger Ware Brockett
+Sang Wook Lee	Ruzena Kucera Bajcsy
+Valentina Bayer Zubek	Thomas Glen Dietterich
+Hansen F. Chen	Peter Neil Belhumeur
+J. Ross Beveridge	Edward Martin Riseman
+Richard I. Hartley	Kunio  Murasugi
+Dmitry M. Malioutov	Alan Steven Willsky
+Robert E. Kass	Stephen Mack Stigler
+Nathan S. Netanyahu	David Mark Mount
+Michael N. Vrahatis	Kosmas I. Iordanidis
+David A. Wood	Randy Howard Katz
+J. Alison Noble	J. Michael Brady
+Stephen G. Eick	Donald Arthur Berry
+Leslie Ann Goldberg	Mark Richard Jerrum
+Shiva Prasad Kasiviswanathan	Martin  Fürer
+Moshe Y. Vardi	Catriel  Beeri
+Thomas C. Henderson	Larry Steven Davis
+Arun K. Sood	Charles P. Neuman
+Dmitri V. Kalashnikov	Sunil K. Prabhakar
+Amit K. Roy-Chowdhury	Ramalingam  Chellappa
+Uwe F. Mayer	Nicholas Jacob Korevaar
+Thomas Brochmann Pedersen	Louis  Salvail
+Naga K. Govindaraju	Dinesh  Manocha
+Gurmeet Singh Manku	Rajeev  Motwani
+Umar Farooq Minhas	Ashraf  Aboulnaga
+Thomas A. Montgomery	Edmund Howell Durfee
+Aleksandra B. Slavkovic	Stephen Elliott Fienberg
+James R. Pinkert	George Edwin Collins
+Walter A. Burkhard	Pravin Pratap Varaiya
+Christopher E. Smith	Nikolaos Panagiotis Papanikolopoulos
+Michael Carl Tschantz	Anupam  Datta
+William Clement Karl	George Cheeran Verghese
+Matthew M. Williamson	Rodney Allen Brooks
+Ion Tim Ieong	Wesley Wei-Chin Chu
+Boleslaw K. Szymanski	Jacek  Bankowski
+James J. Little	Robert James Woodham
+Douglas R. Heisterkamp	Prabir  Bhattacharya
+David S. Doermann	Azriel  Rosenfeld
+Byung Suk Lee	Gio(vanni) Corrado Melchiore Wiederhold
+Fred A. Hamprecht	Wilfred F. van Gunsteren
+David J. Hawkes	Roy P. Parker
+Dimitrios M. Thilikos	Lefteris Miltia Kirousis
+Timothy D. Ross	Alan Van Lair
+Edward M. McCreight	Albert Ronald da Silva Meyer
+Jan H. M. Korst	Jan Karel Lenstra
+Ramana Rao Kompella	Alexander Connell Snoeren
+Paul H. J. Kelly	Hugh  Glaser
+Mark S. Fox	Herbert Alexander Simon
+Wee Kheng Leow	Risto  Miikkulainen
+Matthew J. Beal	Zoubin  Ghahramani
+Gregory D. Abowd	Bernard  Sufrin
+Zbigniew W. Ras	Zdzisław  Pawlak
+David G. Lowe	Thomas Oriel Binford
+John R. Smith	Shih-Fu  Chang
+Tomaso A. Poggio	Antonio  Borsellino
+Lotfi A. Zadeh	John Ralph Ragazzini
+Michael R. Fellows	Michael Lawrence Fredman
+Anthony N. Michel	Sherman H. Wu
+Henry A. Kautz	James Frederick Allen
+András A. Benczúr	Michel Xavier Goemans
+Jeong Han Kim	Jeffry Ned Kahn
+Odest Chadwicke Jenkins	Maja J. Matarić
+Bryon K. Ehlmann	Gregory Anthony Riccardi
+Luís C. Lamb	Dov M. Gabbay
+William Nick Street	Olvi Leon Mangasarian
+Carl Myers Kadie	David Chester Wilkins
+Hrushikesh Narhar Mhaskar	Géza  Freud
+Kwang Mong Sim	Mildred L. G. Shaw
+Walid G. Aref	Hanan  Samet
+Vincent Yan Fu Tan	Alan Steven Willsky
+Michael K. Reiter	Kenneth Paul Birman
+Nicholas J. Multari	Mohamed Gawdat Gouda
+Mirella Moura Moro	Vassilis John Tsotras
+Christian W. Omlin	Edwin H. Rogers
+Andrew B. Nobel	Amir  Dembo
+John Mark Agosta	Ross D. Shachter
+William J. Frawley	William Thomas Reid
+George J. Pappas	S. Shankar (Sosale Shankara) Sastry
+Roman V. Yampolskiy	Venugopal Venu Govindaraju
+Richard C. Wang	William Weston Cohen
