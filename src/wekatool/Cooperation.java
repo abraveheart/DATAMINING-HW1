@@ -7,11 +7,15 @@ import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
 
+import weka.associations.Apriori;
 import weka.associations.FPGrowth;
 import weka.associations.FPGrowth.AssociationRule;
 import weka.core.Instances;
 import data.Utils;
 
+/*
+ * Solution for problem one.
+ */
 public class Cooperation {
 	
 	public void fpGrowth() {
@@ -20,13 +24,11 @@ public class Cooperation {
 		try {
 			data = new Instances(datafile);
 			
-			double deltaValue = 0.00000001;
-			double lowerBoundMinSupportValue = 0.00005;
-			double minMetricValue = 0.2;
+			double deltaValue = 0.00001;
 			FPGrowth fpgrowth = new FPGrowth();
 			fpgrowth.setDelta(deltaValue);
-			fpgrowth.setLowerBoundMinSupport(lowerBoundMinSupportValue);
-			fpgrowth.setMinMetric(minMetricValue);
+			fpgrowth.setLowerBoundMinSupport(Config.COOP_SUPPORT);
+			fpgrowth.setMinMetric(Config.COOP_CONFIDENCE);
 			fpgrowth.setFindAllRulesForSupportLevel(true);
 			fpgrowth.setMaxNumberOfItems(2);
 			
@@ -37,7 +39,7 @@ public class Cooperation {
 				Map<Double, AssociationRule> rules = new TreeMap<Double, AssociationRule>();
 				for(AssociationRule assocRule : assocRules) {
 					double w = assocRule.getMetricValue() + 
-							((assocRule.getTotalSupport() * 100.0) / assocRule.getTotalTransactions());
+							((assocRule.getTotalSupport() * Config.ADJUST) / assocRule.getTotalTransactions());
 					rules.put(-w, assocRule);
 				}
 				writeRules(rules);
@@ -68,14 +70,6 @@ public class Cooperation {
 				writer.write(rule.getTotalSupport() + ",");
 				writer.write(rule.getMetricValue() + ",");
 				writer.write(-entry.getKey() + "\n");
-//				System.out.println("consequence " + rule.getConsequence());
-//				System.out.println("consequence support " + rule.getConsequenceSupport());
-//				System.out.println("metric value " + rule.getMetricValue());
-//				System.out.println("premise support " + rule.getPremiseSupport());
-//				System.out.println("total support " + rule.getTotalSupport());
-//				System.out.println("total transactions " + rule.getTotalTransactions());
-//				System.out.println("metric type " + rule.getMetricType());
-//				System.out.println("premise " + rule.getPremise());
 			}
 		} catch (IOException e) {
 			e.printStackTrace();
@@ -92,8 +86,43 @@ public class Cooperation {
 		return "\"" + s.substring(1, s.length() - 3) + "\"";
 	}
 	
+	public void apriori() {
+		BufferedReader datafile = Utils.getReader(Config.COOP_INPUT_FILE);
+		Instances data;
+		try {
+			data = new Instances(datafile);
+			
+			double deltaValue = 0.00000001;
+			double lowerBoundMinSupportValue = 0.1;
+			double minMetricValue = 0.2;
+			Apriori apriori = new Apriori();
+			apriori.setDelta(deltaValue);
+			apriori.setLowerBoundMinSupport(lowerBoundMinSupportValue);
+			apriori.setMinMetric(minMetricValue);
+			
+			try
+			{
+				apriori.buildAssociations(data);
+				System.out.println(apriori.toString());
+			}
+			catch (Exception e) {
+				e.printStackTrace();
+			}
+			
+		} catch (IOException e1) {
+			e1.printStackTrace();
+		} finally {
+			try {
+				datafile.close();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		}
+	}
+	
 	public static void main(String[] args) throws Exception {
 		Cooperation cooperation = new Cooperation();
+//		cooperation.apriori(); // OutOfMemoryError
 		cooperation.fpGrowth();
 	}
 }
